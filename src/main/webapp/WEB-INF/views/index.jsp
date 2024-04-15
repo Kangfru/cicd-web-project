@@ -8,6 +8,10 @@
     <h2>This is test for build trigger</h2>
     <h2>This is test for build trigger</h2>
     <h2>This is test for build trigger</h2>
+    <h2>This is test for build trigger</h2>
+    <h2>This is test for build trigger</h2>
+    <h2>This is test for build trigger</h2>
+    <h2>This is test for build trigger</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
